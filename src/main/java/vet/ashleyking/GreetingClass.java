@@ -1,3 +1,5 @@
+package vet.ashleyking;
+
 import java.util.Scanner;
 
 public class GreetingClass {
